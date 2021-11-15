@@ -1,0 +1,2 @@
+I will share my Ubuntu Journey here. 
+This will include how to set up Ubuntu and some basic configuration.
